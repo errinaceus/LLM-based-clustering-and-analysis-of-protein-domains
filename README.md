@@ -1,4 +1,4 @@
-A set of Python-based scripts for LLM-based clustering and analysis of protein domains
+## A set of Python-based scripts for LLM-based clustering and analysis of protein domains
 
 Cluster_comparison-Venn.ipynb notebook for cluster comparison using Venn diagram
 
