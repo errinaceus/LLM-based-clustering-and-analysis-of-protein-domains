@@ -10,7 +10,7 @@ Full_analysis_s_score.ipynb  workflow for the cluster analysis of domain embeddi
 
 Interpro_export-tsv.ipynb notebook for the fasta export of the sequences of a given protein domains from InterPro tsv-file
 
-NN_Linear_train_predict.ipynb 
+NN_Linear_train_predict.ipynb Linear neural network to be trained on good clusters of domains of interest in a given proteome, and predict similar domain classes in other proteomes 
 
 clusters_export.ipynb notebook for the export of protein sequences from a cluster in a fasta format
 
