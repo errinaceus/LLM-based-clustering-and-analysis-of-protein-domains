@@ -4,6 +4,8 @@ Cluster_comparison-Venn.ipynb notebook for cluster comparison using Venn diagram
 
 Coloring_by_different_clustering.ipynb notebook for coloring of clusters by clustering obtained with a different algorithm
 
+Full_analysis_s_score_T5.ipynb  workflow for the cluster analysis of domain embeddings, exemplified by embeddings calculated for human C2H2 domains with T5 LLM
+
 Full_analysis_s_score.ipynb  workflow for the cluster analysis of domain embeddings, exemplified by embeddings calculated for human C2H2 domains with ProtBERT LLM
 
 Interpro_export-tsv.ipynb notebook for the fasta export of the sequences of a given protein domains from InterPro tsv-file
